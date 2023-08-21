@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'RARE';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'ROBO';
+    font-weight: 700;
+    font-style: normal;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'RORE';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'RABO';
+    font-weight: 700;
+    font-style: normal;
+    src: url(../fonts/Raleway-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'RABL';
+    font-weight: 900;
+    font-style: normal;
+    src: url(../fonts/Raleway-Black.ttf);
+}
+
+@font-face {
+    font-family: 'RT';
+    font-weight: 100;
+    font-style: normal;
+    src: url(../fonts/Raleway-Thin.ttf);
+}
